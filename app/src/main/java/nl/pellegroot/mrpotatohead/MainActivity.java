@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void checkClicked(View v ) {
+    public void checkClicked(View v) {
         Log.d("potato", "checkClicked: ");
     }
 }
